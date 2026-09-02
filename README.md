@@ -125,35 +125,31 @@ Right-click the line and select "Go to File" to highlight the assert method in t
 
 ## Commit to GitHub
 
-It's good practice to commit your code to GitHub after you pass each unit test.
-Below are instructions on how to do this with a web browser.
+Commit to GitHub
 
-1. Navigate to the home page of your repo.
+It's good practice to commit your code to GitHub regularly as you work. For this assignment, you must create your own GitHub repository and commit your work to your own repository. Do not make changes to the course starter repository.
 
-2. In the file browser at the top of the page, click the text "src" next to the folder icon.
-This will open a new page that shows the contents of the folder: JUnitTests.java and Java1Review.java.
-We want to replace the file Java1Review.java with the version on your computer that contains your code.
+Create Your Own Repository
+Go to the course starter repository on GitHub and download the starter code.
+Create a new repository under your own GitHub account. Give it a name such as Lab2.
+Make sure your new repository is set to Private.
+Upload the starter project files to your new repository. Your repository should contain the same project structure as the starter code, including the src folder.
+Your repository should contain your own copy of Java1Review.java and JUnitTests.java.
 
-3. Click the "Add file" button in the top-right corner and select "Upload files" from the drop-down menu.
+As you work on the assignment, commit your changes regularly. A good commit message should briefly describe what you changed, such as:
 
-4. A new page will open with a rectangle that contains the text "Drag additional files here to add them to your repository Or choose your files".
-Click the text "choose your files" and navigate to the location of Java1Review.java on your computer.
+Implement divide method
 
-5. Scroll down the page to the rectangle that says "Commit changes".
-Type a message in the text box that says "Add files via upload".
-The message should be a [concise description](https://chris.beams.io/posts/git-commit/) of the changes to the repo.
-Something like "Implement methodName" (where "methodName" is the method that passed the test) is a good choice.
-Notice that it's written in the imperative mood and does not end with a period.
+Make sure you are committing to your own repository, not the course starter repository.
 
-6. Make sure the radio button is set to "Commit directly to the main branch" and then click the green "Commit changes" button.
+Regularly committing your code may seem like a hassle, but there are several good reasons to develop this habit:
 
-7. Open Java1Review.java in the GitHub file browser to check that your changes were added.
+If your computer fails, you have an online backup of your code.
+If you accidentally break your program, you can revert to an earlier version.
+You can keep track of your progress as you implement each method.
+If you get stuck on an assignment, you can share your repository with the instructor for help.
 
-Regularly committing your code may seem like a hassle, but there are some good reasons to develop this habit:
-
-* If your computer fails, you have an online backup of your code.
-* If you accidentally break your program, you can revert to an earlier version.
-* If you get stuck on an assignment, we can view the code in your repo and give you feedback.
+Important: The course starter repository is provided only as a starting point. Do not modify or commit changes to the course starter repository.
 
 ## Upload to zyLabs
 
