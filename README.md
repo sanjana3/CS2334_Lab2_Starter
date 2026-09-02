@@ -125,29 +125,24 @@ Right-click the line and select "Go to File" to highlight the assert method in t
 
 ## Commit to GitHub
 
-Commit to GitHub
 
 It's good practice to commit your code to GitHub regularly as you work. For this assignment, you must create your own GitHub repository and commit your work to your own repository. Do not make changes to the course starter repository.
 
-Create Your Own Repository
-Go to the course starter repository on GitHub and download the starter code.
-Create a new repository under your own GitHub account. Give it a name such as Lab2.
-Make sure your new repository is set to Private.
-Upload the starter project files to your new repository. Your repository should contain the same project structure as the starter code, including the src folder.
-Your repository should contain your own copy of Java1Review.java and JUnitTests.java.
-
-As you work on the assignment, commit your changes regularly. A good commit message should briefly describe what you changed, such as:
-
-Implement divide method
-
-Make sure you are committing to your own repository, not the course starter repository.
+# Create Your Own Repository
+* Go to the course starter repository on GitHub and download the starter code.
+* Create a new repository under your own GitHub account. Give it a name such as Lab2.
+* Make sure your new repository is set to Private.
+* Upload the starter project files to your new repository. Your repository should contain the same project structure as the starter code, including the src folder.
+* Your repository should contain your own copy of Java1Review.java and JUnitTests.java.
+* As you work on the assignment, commit your changes regularly. A good commit message should briefly describe what you changed, such as: Implement divide method
+* Make sure you are committing to your own repository, not the course starter repository.
 
 Regularly committing your code may seem like a hassle, but there are several good reasons to develop this habit:
 
-If your computer fails, you have an online backup of your code.
-If you accidentally break your program, you can revert to an earlier version.
-You can keep track of your progress as you implement each method.
-If you get stuck on an assignment, you can share your repository with the instructor for help.
+* If your computer fails, you have an online backup of your code.
+* If you accidentally break your program, you can revert to an earlier version.
+* You can keep track of your progress as you implement each method.
+* If you get stuck on an assignment, you can share your repository with the instructor for help.
 
 Important: The course starter repository is provided only as a starting point. Do not modify or commit changes to the course starter repository.
 
